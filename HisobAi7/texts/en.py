@@ -1,0 +1,16 @@
+T = {
+    "choose_lang": "Please choose a language:",
+    "hello": "👋 Hi! This is Hisob AI — your personal finance helper.",
+    "menu": "Choose an option:",
+    "btn_add_income": "➕ Income",
+    "btn_add_expense": "➖ Expense",
+    "btn_report": "📊 Report",
+    "btn_debt": "🤝 Debt",
+    "ask_text_tx": "Type amount and note. E.g. <b>+12000 coffee</b> or <b>-50000 taxi</b>",
+    "saved": "✅ Saved",
+    "report_title": "📊 Report",
+    "daily_reminder": "Did you log today’s expenses?",
+    "debt_added": "✅ Debt saved",
+    "ask_debt": "Amount, person and due date. E.g. <b>take 500000 Ali 2025-09-20</b>",
+    "unknown": "I didn’t get that. Press /start or use the menu.",
+}

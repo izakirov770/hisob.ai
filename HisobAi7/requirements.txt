@@ -1,0 +1,12 @@
+aiogram>=3.4,<4
+SQLAlchemy>=2.0
+aiosqlite
+APScheduler>=3.10
+python-dotenv
+pytz
+pillow
+pytesseract
+vosk
+soundfile
+pydub
+pytest

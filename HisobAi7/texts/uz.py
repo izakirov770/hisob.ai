@@ -1,0 +1,16 @@
+T = {
+    "choose_lang": "Iltimos, tilni tanlang:",
+    "hello": "👋 Salom! Bu Hisob AI — shaxsiy moliya yordamchingiz.",
+    "menu": "Quyidagidan birini tanlang:",
+    "btn_add_income": "➕ Kirim",
+    "btn_add_expense": "➖ Chiqim",
+    "btn_report": "📊 Hisobot",
+    "btn_debt": "🤝 Qarz",
+    "ask_text_tx": "Summani va izohni yozing. Masalan: <b>+12000 kofe</b> yoki <b>-50000 taksi</b>",
+    "saved": "✅ Saqlandi",
+    "report_title": "📊 Hisobot",
+    "daily_reminder": "Bugungi xarajatlaringizni kiritdingizmi?",
+    "debt_added": "✅ Qarz saqlandi",
+    "ask_debt": "Summani, kimdan/kimgа va muddatni yozing. Masalan: <b>olgan 500000 Ali 2025-09-20</b>",
+    "unknown": "Tushunmadim. /start bosing yoki menyudan tanlang.",
+}
